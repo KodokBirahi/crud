@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prevent and Protect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">20SA2060</string>
+    <string name="nav_header_subtitle">Fajri Aulia Rachmandha</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_mhs">Mahasiswa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Spinner ORMA
+    <string-array name="listORMA">
+        <item>Senat Mahasiswa</item>
+        <item>Badan Eksekutif Mahasiswa</item>
+    </string-array>
+
+</resources>
